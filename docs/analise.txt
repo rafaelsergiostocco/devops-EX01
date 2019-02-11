@@ -1,2 +1,5 @@
 Analise (requisitos.txt):
-Preciso de uma calculadora de imposto de renda em que o usuário possa inserir seu rendimento e considerando a previdência social, número de dependentes, pensão alimentícia e outras deduções apresente a alíquota efetiva com base na faixa da base de cálculo.
+Preciso de uma calculadora de imposto de renda em que o usuÃ¡rio possa inserir seu rendimento e considerando a previdÃªncia social, nÃºmero de dependentes, pensÃ£o alimentÃ­cia e outras deduÃ§Ãµes apresente a alÃ­quota efetiva com base na faixa da base de cÃ¡lculo.
+
+nome: Enio Neto
+RA: 1802236
